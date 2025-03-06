@@ -1,0 +1,66 @@
+A. Setting up the program for the first time.
+
+    1. Save this folder such that it is not inside any other folder.
+
+    2. Downloading all the necessary modules:
+        Type this in the terminal or powershell: "pip install -r requirements.txt"
+
+
+    3. Do any one of the following three things to make the program to run when the pc starts:
+
+        a. Task Scheduler:
+
+            # Open Task Scheduler.
+            # Click "Create Task".
+            # Under the "General" tab, provide a name for the task.
+            # Under the "Triggers" tab, click "New" and select "At startup".
+            # Under the "Actions" tab, click "New" and choose "Start a program".
+            # Browse to your Python executable (e.g., python.exe) and add the path to your script in the "Add arguments" field.
+            # Click "OK" to save the task.
+
+        b. Startup Folder:
+
+            # Create a shortcut to your Python script.
+            # Press Win + R, type shell:startup, and press Enter to open the Startup folder.
+            # Place the shortcut in this folder.       
+
+        c.  Run the program "adding_to_startup.py".
+
+    4. Scan the QR code following the instructions on the screen.
+
+    5. Export all the chats to this folder and follow the instructions given in the terminal.
+
+    6. The set up is done, now just restart your pc or run the program "1 main.py", to wish all those who have Birthday today.
+
+
+
+B. Customising wishes for certain individuals:
+
+    1. Run the program "customize_individual_wishes.py".
+
+    2. Follow the instructions on the terminal.
+
+
+
+C. Resetting the program:
+
+    1. Run the program "reset.py".
+
+    2. Follow the instructions given on the terminal.
+
+    3. Details about reset options:
+
+        a. Complete reset: It deletes all the files and you have to scan the QR code again and do the whole process again.
+        b. Partial Reset: It deletes all the files and you have to do the whole process again but you need not scan the QR code.
+        c. Rectifying Birth Dates: It helps you in verifying whether the birthdates are correctly entered or not.
+        d. Exporting chats of already listed contacts:  It helps in adding the chats of already listed contacts to extract their birthdates.
+        e. Manually adding Birthday of already listed contacts: It helps in manually adding the birthdates of those contacts who are already listed.
+        f. Updating contact list by adding chats: It is used to get all the new contacts and for adding their birthdate by exporting chats.
+        g. Updating Contact list Manually: It is used to add the new contacts manually and for adding their birthdate by exporting chats or manually.
+        h. Rectifying Contact Names: It is used for rectifying Contact name.
+
+
+
+D. Necessities:
+
+    # Insure that a strong Internet connection is set up for proper functioning.        

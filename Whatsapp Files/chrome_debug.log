@@ -1,0 +1,21 @@
+[11468:12904:0306/142552.144:INFO:chrome_browser_cloud_management_controller.cc(196)] No machine level policy manager exists.
+[19892:28776:0306/142552.431:INFO:cpu_info.cc(53)] Available number of cores: 12
+[15184:3968:0306/142552.566:INFO:cpu_info.cc(53)] Available number of cores: 12
+[5980:34044:0306/142552.585:WARNING:viz_main_impl.cc(85)] VizNullHypothesis is disabled (not a warning)
+[15472:20868:0306/142552.959:INFO:cpu_info.cc(53)] Available number of cores: 12
+[20280:21772:0306/142553.163:INFO:cpu_info.cc(53)] Available number of cores: 12
+[11468:12904:0306/142553.523:INFO:CONSOLE(133)] "Event handler of 'x-storagemutated-1' event must be added on the initial evaluation of worker script.", source: https://static.whatsapp.net/rsrc.php/v3/yj/r/lr2w6NmAu6b.js?_nc_x=Ij3Wp8lg5Kz (133)
+[13544:3652:0306/142553.711:INFO:cpu_info.cc(53)] Available number of cores: 12
+[5980:24112:0306/142554.376:WARNING:angle_platform_impl.cc(49)] HLSLCompiler.cpp:250 (rx::HLSLCompiler::compileToBinary): 
+C:\fakepath(139,3-70): warning X3557: loop only executes for 1 iteration(s), forcing loop to unroll
+
+[11468:12904:0306/142602.474:INFO:CONSOLE(158)] "Event handler of 'x-storagemutated-1' event must be added on the initial evaluation of worker script.", source: https://static.whatsapp.net/rsrc.php/v4/yn/r/85S4Bk6DKSn.js (158)
+[11468:12904:0306/142602.582:INFO:CONSOLE(133)] "Event handler of 'x-storagemutated-1' event must be added on the initial evaluation of worker script.", source: https://static.whatsapp.net/rsrc.php/v3/yj/r/lr2w6NmAu6b.js?_nc_x=Ij3Wp8lg5Kz (133)
+[11468:12904:0306/142607.252:WARNING:controller_impl.cc(1187)] Background download complete, client: 6, completion type: 0, file size:5154
+[11468:12904:0306/142607.256:WARNING:controller_impl.cc(1187)] Background download complete, client: 6, completion type: 0, file size:883094
+[11468:12904:0306/142608.567:WARNING:controller_impl.cc(1187)] Background download complete, client: 6, completion type: 0, file size:45129
+[11468:12904:0306/142608.695:WARNING:controller_impl.cc(1187)] Background download complete, client: 6, completion type: 0, file size:2200227
+[11468:12904:0306/142611.040:WARNING:controller_impl.cc(1187)] Background download complete, client: 6, completion type: 0, file size:2747170
+[11468:12904:0306/142611.176:WARNING:controller_impl.cc(1187)] Background download complete, client: 6, completion type: 0, file size:2992963
+[11468:12904:0306/142612.230:WARNING:controller_impl.cc(1187)] Background download complete, client: 6, completion type: 0, file size:4680
+[11468:12904:0306/142612.656:WARNING:controller_impl.cc(1187)] Background download complete, client: 6, completion type: 0, file size:118577
